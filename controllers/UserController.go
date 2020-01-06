@@ -3,10 +3,10 @@ package controllers
 import (
 	"encoding/json"
 
-	"institute/config"
-	"institute/helpers"
-	"institute/models"
-	"institute/utils"
+	"instituteNew/config"
+	"instituteNew/helpers"
+	"instituteNew/models"
+	"instituteNew/utils"
 	"time"
 
 	"github.com/gin-gonic/gin"

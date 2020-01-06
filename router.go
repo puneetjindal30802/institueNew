@@ -1,7 +1,7 @@
 package main
 
 import (
-	"institute/controllers"
+	"instituteNew/controllers"
 
 	"github.com/gin-gonic/gin"
 )

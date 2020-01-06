@@ -1,7 +1,7 @@
 package models
 
 import (
-	"institute/config"
+	"instituteNew/config"
 	"time"
 )
 
